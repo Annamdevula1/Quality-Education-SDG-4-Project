@@ -166,7 +166,6 @@ When `WATSONX_API_KEY` and `WATSONX_PROJECT_ID` are not set:
 - Pre-written fallback responses are shown
 - **Every demo response is clearly labelled**: *"DEMO – Not IBM Granite"*
 - The ML, EDA, and risk factor components work fully without credentials
-
 ---
 
 ## SDG 4 – Quality Education
