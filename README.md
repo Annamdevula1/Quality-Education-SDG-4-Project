@@ -34,7 +34,7 @@ eduai/
 pip install -r requirements.txt
 ```
 
-### 2. (Optional) Configure IBM Granite Credentials
+### 2. Configure IBM Granite Credentials
 
 Copy `.env.example` to `.env` and fill in your IBM watsonx.ai credentials:
 
