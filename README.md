@@ -10,18 +10,29 @@ Project Structure
 
 eduai/
 ├── app.py                  ← Streamlit web application (Steps 16–20)
+
 ├── train.py                ← Training & evaluation script (Steps 1–10)
+
 ├── data_generator.py       ← Synthetic dataset generation (Steps 1, 3)
+
 ├── data_processing.py      ← Validation & processing pipeline (Step 2)
+
 ├── eda.py                  ← Exploratory data analysis (Step 4)
+
 ├── ml_model.py             ← Random Forest ML model (Steps 5, 6, 10)
+
 ├── risk_factors.py         ← Transparent rule-based indicators (Step 7)
+
 ├── analysis_engine.py      ← Single & batch student analysis (Steps 8, 15)
+
 ├── granite_integration.py  ← IBM Granite via watsonx.ai (Steps 11–14)
+
 ├── demo_students.py        ← Predefined synthetic demo students (Step 9)
+
 ├── requirements.txt        ← Python dependencies
+
 ├── .env.example            ← Credentials template
-└── .gitignore
+
 
 ⸻
 
