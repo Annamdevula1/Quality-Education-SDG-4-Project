@@ -20,9 +20,9 @@ eduai/
 ├── granite_integration.py  ← IBM Granite via watsonx.ai (Steps 11–14)
 ├── demo_students.py        ← Predefined synthetic demo students (Step 9)
 ├── requirements.txt        ← Python dependencies
-├── .env.example            ← Credentials template (never commit .env)
+├── .env.example            ← Credentials template
 └── .gitignore
-```
+---
 
 ---
 
