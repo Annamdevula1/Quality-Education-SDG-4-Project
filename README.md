@@ -47,14 +47,12 @@ WATSONX_PROJECT_ID=your-ibm-watsonx-project-id-here
 WATSONX_REGION=us-south
 ```
 
-> If credentials are not set, EduAI runs in **Demo Mode** with clearly labelled pre-written fallback responses. The rest of the system works fully without IBM Granite credentials.
+
 
 ### 3. Train the Model
 
-```bash
-cd eduai
+
 python train.py
-```
 
 This runs all steps 1–10 and saves:
 - `outputs/model/eduai_rf_model.joblib`
@@ -64,10 +62,8 @@ This runs all steps 1–10 and saves:
 
 ### 4. Launch the Application
 
-```bash
-cd eduai
+
 streamlit run app.py
-```
 
 Open `http://localhost:8501` in your browser.
 
