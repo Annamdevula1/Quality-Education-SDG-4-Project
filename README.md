@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Copy `.env.example` to `.env` and fill in your IBM watsonx.ai credentials:
 
 ```bash
-cp .env.example .env
+
 ```
 
 Edit `.env`:
