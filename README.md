@@ -9,6 +9,7 @@ EduAI is a complete, professional AI-powered academic early warning system that 
 Project Structure
 
 eduai/
+
 ├── app.py                  ← Streamlit web application (Steps 16–20)
 
 ├── train.py                ← Training & evaluation script (Steps 1–10)
