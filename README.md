@@ -48,7 +48,9 @@ pip install -r requirements.txt
 Copy .env.example to .env and fill in your IBM watsonx.ai credentials:
 
 WATSONX_API_KEY=your-ibm-watsonx-api-key-here
+
 WATSONX_PROJECT_ID=your-ibm-watsonx-project-id-here
+
 WATSONX_REGION=us-south
 
 3. Train the Model
