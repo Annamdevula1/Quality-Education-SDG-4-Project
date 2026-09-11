@@ -1,13 +1,13 @@
-# EduAI – AI-Powered Early Warning & Academic Support System
-## SDG 4 – Quality Education
+EduAI – AI-Powered Early Warning & Academic Support System
 
-EduAI is a complete, professional AI-powered academic early warning system that combines **Machine Learning** and **IBM Granite Generative AI** to help educators identify students who may need academic support — before they fall significantly behind.
+SDG 4 – Quality Education
 
----
+EduAI is a complete, professional AI-powered academic early warning system that combines Machine Learning and IBM Granite Generative AI to help educators identify students who may need academic support — before they fall significantly behind.
 
-## Project Structure
+⸻
 
-```
+Project Structure
+
 eduai/
 ├── app.py                  ← Streamlit web application (Steps 16–20)
 ├── train.py                ← Training & evaluation script (Steps 1–10)
@@ -22,56 +22,44 @@ eduai/
 ├── requirements.txt        ← Python dependencies
 ├── .env.example            ← Credentials template
 └── .gitignore
----
 
----
+⸻
 
-## Quick Start
+Quick Start
 
-### 1. Install Dependencies
+1. Install Dependencies
 
-```bash
 pip install -r requirements.txt
-```
 
-### 2. Configure IBM Granite Credentials
+2. Configure IBM Granite Credentials
 
-Copy `.env.example` to `.env` and fill in your IBM watsonx.ai credentials:
+Copy .env.example to .env and fill in your IBM watsonx.ai credentials:
 
-    .env
-
-Edit `.env`:
-```
 WATSONX_API_KEY=your-ibm-watsonx-api-key-here
 WATSONX_PROJECT_ID=your-ibm-watsonx-project-id-here
 WATSONX_REGION=us-south
-```
 
-
-
-### 3. Train the Model
-
+3. Train the Model
 
 python train.py
 
 This runs all steps 1–10 and saves:
-- `outputs/model/eduai_rf_model.joblib`
-- `outputs/model/label_encoder.joblib`
-- `outputs/eda/*.png` — EDA charts
-- `outputs/evaluation/*.png` — Confusion matrix & feature importance
 
-### 4. Launch the Application
+* outputs/model/eduai_rf_model.joblib
+* outputs/model/label_encoder.joblib
+* outputs/eda/*.png — EDA charts
+* outputs/evaluation/*.png — Confusion matrix & feature importance
 
+4. Launch the Application
 
 streamlit run app.py
 
-Open `http://localhost:8501` in your browser.
+Open http://localhost:8501 in your browser.
 
----
+⸻
 
-## System Architecture
+System Architecture
 
-```
 Synthetic Student Data (500 records)
            ↓
 Data Validation & Processing
@@ -91,77 +79,75 @@ IBM Granite Analysis (via IBM watsonx.ai)
 Explanation + 3 Recommendations + Monitoring Suggestion
            ↓
 Professional Streamlit Dashboard
-```
 
----
+⸻
 
-## AI Component Responsibilities
+AI Component Responsibilities
 
-| Component | Role |
-|-----------|------|
-| **Random Forest (ML)** | Predicts overall academic risk level |
-| **Risk Factor Rules** | Identifies observable academic warning indicators |
-| **IBM Granite (GenAI)** | Generates explanation, recommendations & monitoring suggestion |
+Component	Role
+Random Forest (ML)	Predicts overall academic risk level
+Risk Factor Rules	Identifies observable academic warning indicators
+IBM Granite (GenAI)	Generates explanation, recommendations & monitoring suggestion
 
-These components are **clearly separated**. IBM Granite receives the ML prediction and risk factors as inputs and generates natural language guidance.
+These components are clearly separated. IBM Granite receives the ML prediction and risk factors as inputs and generates natural language guidance.
 
----
+⸻
 
-## Risk Label Logic (Transparent)
+Risk Label Logic (Transparent)
 
-```
 At Risk:
   - marks < 45, OR
   - attendance < 55%, OR
   - (quiz_score < 40 AND assignment_completion < 50%)
-
 Needs Attention:
   - marks < 60, OR
   - attendance < 70%, OR
   - quiz_score < 55, OR
   - assignment_completion < 60%, OR
   - current marks − previous marks < −10
-
 On Track:
   - All other students
-```
 
----
+⸻
 
-## Risk Factor Thresholds (Rule-Based, Transparent)
+Risk Factor Thresholds (Rule-Based, Transparent)
 
-| Indicator | Threshold |
-|-----------|-----------|
-| Low marks | < 50 |
-| Low attendance | < 65% |
-| Low quiz performance | < 50 |
-| Low assignment completion | < 60% |
-| Declining performance | Current − Previous < −8 |
+Indicator	Threshold
+Low marks	< 50
+Low attendance	< 65%
+Low quiz performance	< 50
+Low assignment completion	< 60%
+Declining performance	Current − Previous < −8
 
----
+⸻
 
-## Ethical Principles
+Ethical Principles
 
-- ✅ **Synthetic data only** — no real student PII
-- ✅ **Transparent risk factors** — documented thresholds
-- ✅ **AI supports educators** — teachers make final decisions
-- ✅ **No sensitive assumptions** — no medical, family, or financial judgments
-- ✅ **Secure credentials** — environment variables only, never hard-coded
-- ✅ **Risk labels are not permanent** — clearly communicated in UI
-- ✅ **Demo mode** — clearly labelled, never misattributed to IBM Granite
+* ✅ Synthetic data only — no real student PII
+* ✅ Transparent risk factors — documented thresholds
+* ✅ AI supports educators — teachers make final decisions
+* ✅ No sensitive assumptions — no medical, family, or financial judgments
+* ✅ Secure credentials — environment variables only, never hard-coded
+* ✅ Risk labels are not permanent — clearly communicated in UI
 
----
+⸻
 
-## IBM Granite Demo Mode
+IBM Granite Integration
 
-When `WATSONX_API_KEY` and `WATSONX_PROJECT_ID` are not set:
+EduAI is successfully integrated with IBM Granite through IBM watsonx.ai.
 
-- EduAI runs in **Demo Mode**
-- Pre-written fallback responses are shown
-- **Every demo response is clearly labelled**: *"DEMO – Not IBM Granite"*
-- The ML, EDA, and risk factor components work fully without credentials
----
+The application sends the Machine Learning risk prediction and identified academic risk factors to IBM Granite.
 
-## SDG 4 – Quality Education
+IBM Granite generates:
 
-EduAI supports SDG 4 by helping educators identify students who may need academic support **earlier**, enabling timely, targeted intervention while keeping teachers responsible for all decisions.
+* A clear explanation of the student’s academic situation
+* Three academic support recommendations
+* A monitoring or follow-up suggestion
+
+IBM Granite does not independently assign the student’s risk category. The Random Forest model performs the risk classification, while IBM Granite generates natural-language guidance based on the prediction and observable academic indicators.
+
+⸻
+
+SDG 4 – Quality Education
+
+EduAI supports SDG 4 by helping educators identify students who may need academic support earlier, enabling timely, targeted intervention while keeping teachers responsible for all decisions.
