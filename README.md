@@ -158,6 +158,10 @@ IBM Granite generates:
 
 IBM Granite does not independently assign the student’s risk category. The Random Forest model performs the risk classification, while IBM Granite generates natural-language guidance based on the prediction and observable academic indicators.
 
+Note:
+
+-the project can be works in a demo mode also without credentails also
+
 ⸻
 
 SDG 4 – Quality Education
