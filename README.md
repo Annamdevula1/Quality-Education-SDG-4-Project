@@ -66,31 +66,43 @@ This runs all steps 1–10 and saves:
 
 streamlit run app.py
 
-Open http://localhost:8501 in your browser.
+open local host in a web browser.
 
 ⸻
 
 System Architecture
 
 Synthetic Student Data (500 records)
+
            ↓
 Data Validation & Processing
+
            ↓
 Risk Label Creation (transparent rules)
+
            ↓
 Exploratory Data Analysis (8 charts)
+
            ↓
 Random Forest ML Training (80/20 split, stratified)
+
            ↓
 Risk Classification: On Track / Needs Attention / At Risk
+
            ↓
 Transparent Risk Factor Identification (rule-based)
+
+
            ↓
 IBM Granite Analysis (via IBM watsonx.ai)
+
+
            ↓
 Explanation + 3 Recommendations + Monitoring Suggestion
+
            ↓
 Professional Streamlit Dashboard
+
 
 ⸻
 
