@@ -183,6 +183,40 @@ EduAI integrates **IBM Granite 4.0 H Small** through **IBM Cloud watsonx.ai** to
 <img width="1920" height="1080" alt="Screenshot 2026-09-10 17 24 23" src="https://github.com/user-attachments/assets/02ce14ec-d3cb-4587-9a87-51e6d9576ac0" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-10 17 24 49" src="https://github.com/user-attachments/assets/7f513f16-fe79-4c8d-a7ca-0c317788062d" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-10 17 35 50" src="https://github.com/user-attachments/assets/64cabdf6-59df-4b7e-8e92-e8bf96516e28" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 36 33" src="https://github.com/user-attachments/assets/56932b91-43a0-4293-8ac1-6e6980bdd3d5" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 36 44" src="https://github.com/user-attachments/assets/9a3b0337-f65b-46c5-992d-5d70b65620bc" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 36 51" src="https://github.com/user-attachments/assets/c13a65e8-0119-4f04-b25a-8a79c94f04ee" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 38 25" src="https://github.com/user-attachments/assets/9b1cd6b6-9d19-4474-aaea-a2b8b1242416" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 38 25" src="https://github.com/user-attachments/assets/5891ab51-fc8c-432b-9f78-e4b0d3ad2b68" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 38 57" src="https://github.com/user-attachments/assets/0144cb54-10b3-476a-bb9d-624323664751" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 39 12" src="https://github.com/user-attachments/assets/3eb48489-e180-485c-b757-a2f60cdb7066" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 39 21" src="https://github.com/user-attachments/assets/a46cc756-4211-480d-be63-2bed336d7370" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 41 03" src="https://github.com/user-attachments/assets/275d5c57-d953-4e77-b54e-3ef000109fe8" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 41 32" src="https://github.com/user-attachments/assets/ad42ccd2-fb2b-46f6-8c21-ba3d0b9149d2" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 41 44" src="https://github.com/user-attachments/assets/013d64dd-675e-4ccd-b778-7ff26e81f8f9" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 41 53" src="https://github.com/user-attachments/assets/4d65a11b-041b-474c-be9f-cf0c708339ed" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 42 06" src="https://github.com/user-attachments/assets/7741b9f0-df8a-47ba-bb41-15de51cc5174" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 42 35" src="https://github.com/user-attachments/assets/6bcd0069-14ff-4b88-96c6-edab26fdb67e" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 36 44" src="https://github.com/user-attachments/assets/4843d469-3c58-4851-8e06-009d5c98d5dc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
