@@ -173,6 +173,27 @@ EduAI integrates **IBM Granite 4.0 H Small** through **IBM Cloud watsonx.ai** to
 - ML prediction and risk factors are provided as inputs to the Granite model
 ---
 
+## Streamlit Application
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 23 09" src="https://github.com/user-attachments/assets/3062a0b2-ef29-4ae7-9117-a833aa0f9905" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 23 26" src="https://github.com/user-attachments/assets/d9ac56be-6fb7-41ec-8475-ef6b60b4ff32" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 23 41" src="https://github.com/user-attachments/assets/e3b99a1a-f4c4-4ba6-93b9-c2c7c9d46ef6" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 23 50" src="https://github.com/user-attachments/assets/0c79d84c-8290-43c2-95d5-206a6b5c66a4" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 23 59" src="https://github.com/user-attachments/assets/53618fb1-c863-46fe-a55a-56f15ff9b5fe" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 24 12" src="https://github.com/user-attachments/assets/e1ddbf8c-5a77-403e-9330-c3fa60d16c7c" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 24 23" src="https://github.com/user-attachments/assets/02ce14ec-d3cb-4587-9a87-51e6d9576ac0" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 24 49" src="https://github.com/user-attachments/assets/7f513f16-fe79-4c8d-a7ca-0c317788062d" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 35 50" src="https://github.com/user-attachments/assets/64cabdf6-59df-4b7e-8e92-e8bf96516e28" />
+
+
+
+
+
+
+
+
+
+
+
 ## SDG 4 – Quality Education
 
 EduAI supports SDG 4 by helping educators identify students who may need academic support **earlier**, enabling timely, targeted intervention while keeping teachers responsible for all decisions.
