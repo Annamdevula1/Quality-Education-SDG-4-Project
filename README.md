@@ -217,6 +217,7 @@ EduAI integrates **IBM Granite 4.0 H Small** through **IBM Cloud watsonx.ai** to
 <img width="1920" height="1080" alt="Screenshot 2026-09-12 15 21 30" src="https://github.com/user-attachments/assets/69cd0f19-ce7f-488e-943b-b3913bc5b6ea" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-12 15 21 30" src="https://github.com/user-attachments/assets/5c5c246d-6ebe-483f-af88-487d3a376f7d" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-12 15 21 43" src="https://github.com/user-attachments/assets/e4672615-e4fd-4e4a-ba4e-effd3583142e" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-12 15 19 37" src="https://github.com/user-attachments/assets/4bccf3fe-7149-4013-b188-8e92b3374cde" />
 
 
 
