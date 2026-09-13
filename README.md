@@ -219,44 +219,16 @@ EduAI integrates **IBM Granite 4.0 H Small** through **IBM Cloud watsonx.ai** to
 <img width="1920" height="1080" alt="Screenshot 2026-09-12 15 21 43" src="https://github.com/user-attachments/assets/e4672615-e4fd-4e4a-ba4e-effd3583142e" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-12 15 19 37" src="https://github.com/user-attachments/assets/ec41d342-504e-4f7c-8e72-ad768cfbc2a5" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-10 17 44 21" src="https://github.com/user-attachments/assets/ac410b4a-d34a-4a09-9e36-90cef4ff6ce0" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 44 30" src="https://github.com/user-attachments/assets/2e6bff65-900c-43b3-bc5e-bcdb836b6f5f" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 50 40" src="https://github.com/user-attachments/assets/010d1b17-3bb0-41f7-aa44-d50804e591b4" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 50 54" src="https://github.com/user-attachments/assets/c4d84c15-b024-488b-b643-401b4c7f29d7" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 51 01" src="https://github.com/user-attachments/assets/f1c25fe0-5c02-4b51-9525-28ec357ee57a" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 51 11" src="https://github.com/user-attachments/assets/f59779ce-c280-4b01-9122-cf717ba4ebc9" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 51 25" src="https://github.com/user-attachments/assets/830a9ca7-3ce6-4970-ae23-5c66fee31e72" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 52 05" src="https://github.com/user-attachments/assets/259ac24d-8597-4844-b783-87214f313bca" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 52 14" src="https://github.com/user-attachments/assets/25dd650b-28f2-45c6-8011-6fb96a9ba0df" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 52 25" src="https://github.com/user-attachments/assets/1168b273-df24-4e3d-971f-8ea51ae7bf05" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 17 52 32" src="https://github.com/user-attachments/assets/15255dca-93f6-4a08-84fd-6c6e5f2a9589" />
 
 ## SDG 4 – Quality Education
 
