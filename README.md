@@ -25,6 +25,9 @@ eduai/
 ```
 
 ---
+## Project Prototype demo working videos
+
+https://drive.google.com/drive/folders/1hEvrXOyVhdANB4GZEzFvs3dY34BN1ods?usp=sharing
 
 ## Quick Start
 
